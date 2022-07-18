@@ -1,2 +1,2 @@
 # LSTM
-In this repo, there are some simple code to verify PyTorch APIs for LSTM, LSTM projection, and GRU.
+In this repo, there are some simple codes to verify PyTorch APIs of LSTM, LSTM projection, and GRU.
